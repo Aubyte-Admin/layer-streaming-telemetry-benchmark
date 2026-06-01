@@ -47,4 +47,4 @@ To run the open-source telemetry baseline locally or on Kaggle:
 * The benchmark logging harness and Qwen-0.5B baseline code in this repository are open-source and licensed under the **MIT License**.
 * The core **DeepSeek FP4/FP8 Layer-Streaming Offloading Engine** (which enables running 147 GB architectures under a 1.25 GB VRAM ceiling) is **proprietary technology** and is withheld from this public repository. 
 
-For commercial licensing, enterprise integration, or deep-dive technical reviews under NDA, please contact: **[your.email@domain.com]**.
+For commercial licensing, enterprise integration, or deep-dive technical reviews under NDA, please contact: **Bernu@aubyte.co.za**.
